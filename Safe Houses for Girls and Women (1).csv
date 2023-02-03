@@ -1,0 +1,743 @@
+ID,Region,Date of arrival at Safe House,Age on arrival in years,District,Religion,Type of case,Who brought her to the Safe House,Suggestion from social welfare officer,Immediate needs on arrival,Health Status,School
+1,Mara,2/4/2020,14,Serengeti,christian,other,government leader,reconciliation with parents,Other,Heathy,1
+2,Mara,11/20/2019,18,Butiam,muslim,fgm,school teacher,short term protection,Counselling,Heathy,1
+3,Mara,12/9/2018,11,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,1
+4,Mara,12/29/2018,14,Serengeti,christian,child marriage,police,short term protection,Counselling,UTI,1
+5,Mara,12/21/2018,12,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,1
+6,Mara,12/22/2018,13,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,1
+7,Mara,12/26/2018,12,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,1
+8,Mara,12/21/2018,13,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,1
+9,Mara,12/23/2018,11,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,1
+10,Mara,12/5/2018,13,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,1
+11,Mara,12/25/2018,11,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,1
+12,Mara,12/28/2018,14,Serengeti,christian,child marriage,police,short term protection,Counselling,UTI,1
+13,Mara,12/29/2018,12,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,1
+14,Mara,12/25/2018,13,Serengeti,christian,child marriage,police,short term protection,Counselling,UTI,1
+15,Mara,12/10/2018,12,Serengeti,christian,child marriage,police,short term protection,Counselling,UTI,1
+16,Mara,12/23/2018,12,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,1
+17,Mara,12/24/2018,11,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,1
+18,Mara,12/11/2018,14,Serengeti,christian,child marriage,police,short term protection,Counselling,UTI,1
+19,Mara,12/5/2018,14,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,1
+20,Mara,12/12/2018,12,Serengeti,christian,violence,police,short term protection,Counselling,UTI,1
+21,Mara,12/14/2018,13,Serengeti,christian,child marriage,police,short term protection,Counselling,UTI,1
+22,Mara,12/6/2018,11,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,1
+23,Mara,12/9/2018,13,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,1
+24,Mara,12/12/2018,14,Serengeti,christian,child marriage,police,short term protection,Counselling,UTI,1
+25,Mara,12/20/2018,12,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,1
+27,Mara,12/15/2018,13,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,1
+28,Mara,12/12/2018,13,Serengeti,christian,child marriage,police,short term protection,Counselling,UTI,1
+29,Mara,12/16/2018,13,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,1
+30,Mara,12/21/2018,12,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,1
+31,Mara,12/13/2018,13,Serengeti,christian,child marriage,police,short term protection,Counselling,UTI,1
+32,Mara,12/8/2018,14,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,1
+33,Mara,12/4/2018,12,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,1
+34,Mara,12/27/2018,11,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,1
+35,Mara,12/23/2018,11,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,1
+36,Mara,12/12/2018,13,Serengeti,christian,child marriage,police,short term protection,Counselling,UTI,1
+37,Mara,12/13/2018,12,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,1
+38,Mara,12/8/2017,12,Tarime,christian,fgm,volunteer,prosecution,Other,Heathy,1
+39,Mara,12/28/2018,35,Tarime,christian,fgm,community member,short term protection,Counselling,Heathy,1
+40,Mara,12/3/2019,14,Butiam,christian,violence,volunteer,prosecution,Counselling,Heathy,1
+41,Mara,12/3/2019,14,Bunda,christian,violence,police,long term protection,Clothes,Heathy,0
+42,Mara,2/5/2020,11,Serengeti,christian,fgm,volunteer,prosecution,Clothes,Heathy,1
+43,Mara,2/20/2020,16,Butiam,christian,rape,police,prosecution,Clothes,STI,0
+44,Mara,12/2/2017,13,Tarime,christian,fgm,volunteer,prosecution,Clothes,Heathy,0
+46,Mara,2/6/2020,17,Tarime,christian,fgm,volunteer,short term protection,Clothes,Heathy,0
+47,Mara,1/3/2020,17,Butiam,christian,child marriage,police,long term protection,Clothes,Heathy,1
+48,Mara,12/3/2019,14,Tarime,christian,fgm,volunteer,long term protection,Clothes,Heathy,1
+50,Mara,4/11/2019,10,Rorya,christian,fgm,family member,long term protection,Counselling,Heathy,1
+51,Mara,10/10/2019,12,Bunda,christian,violence,police,long term protection,Counselling,Heathy,0
+52,Mara,12/3/2019,14,Tarime,christian,fgm,volunteer,long term protection,Clothes,Heathy,1
+53,Mara,12/3/2019,15,Tarime,christian,fgm,volunteer,long term protection,Clothes,Heathy,1
+54,Mara,12/7/2017,14,Serengeti,christian,child marriage,volunteer,long term protection,Counselling,Heathy,1
+55,Mara,12/6/2017,12,Serengeti,christian,fgm,volunteer,long term protection,Counselling,Heathy,1
+56,Mara,7/17/2019,9,Butiam,christian,rape,police,long term protection,Counselling,UTI,1
+57,Mara,12/18/2017,14,Tarime,christian,fgm,volunteer,long term protection,Underwear,Heathy,1
+58,Mara,11/3/2019,15,Tarime,christian,fgm,volunteer,long term protection,Clothes,Heathy,1
+59,Mara,6/14/2019,17,Serengeti,christian,child marriage,came herself,short term protection,Underwear,Heathy,1
+60,Mara,12/6/2017,12,Serengeti,christian,fgm,volunteer,long term protection,Counselling,Heathy,1
+61,Mara,12/5/2017,14,Serengeti,christian,fgm,volunteer,long term protection,Clothes,Heathy,1
+62,Mara,9/14/2017,10,Rorya,christian,child marriage,community member,long term protection,Counselling,Heathy,1
+63,Mara,12/5/2017,12,Rorya,christian,fgm,community member,long term protection,Shoes,Heathy,1
+64,Mara,12/17/2019,14,Tarime,christian,fgm,volunteer,long term protection,Clothes,Heathy,1
+65,Mara,2/2/2018,16,Butiam,christian,child marriage,volunteer,long term protection,Counselling,Heathy,1
+66,Mara,6/6/2018,8,Rorya,christian,fgm,religious leader,long term protection,Counselling,Heathy,1
+67,Mara,12/4/2018,15,Tarime,christian,fgm,volunteer,long term protection,Clothes,Heathy,1
+68,Mara,2/18/2020,13,Tarime,christian,fgm,volunteer,long term protection,Counselling,Heathy,1
+69,Mara,12/18/2017,13,Tarime,christian,fgm,volunteer,long term protection,Counselling,Heathy,1
+70,Mara,2/16/2018,15,Butiam,christian,child marriage,police,long term protection,Clothes,Heathy,1
+71,Mara,12/1/2018,13,Butiam,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+72,Mara,11/15/2018,13,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+73,Mara,12/3/2019,16,Rorya,christian,fgm,volunteer,prosecution,Other,Other Issues,1
+74,Mara,12/3/2019,13,Tarime,christian,fgm,volunteer,prosecution,Other,Heathy,1
+75,Mara,12/3/2019,18,Tarime,christian,fgm,volunteer,prosecution,Other,Heathy,1
+76,Mara,12/21/2019,12,Serengeti,christian,fgm,police,short term protection,Counselling,Heathy,1
+77,Mara,11/11/2017,15,Serengeti,christian,fgm,police,short term protection,Counselling,Heathy,1
+82,Mara,7/10/2019,15,Serengeti,christian,child marriage,police,short term protection,Counselling,Other Issues,0
+83,Mara,1/10/2018,12,Serengeti,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+84,Mara,1/2/2020,16,Serengeti,christian,fgm,police,short term protection,Counselling,Heathy,0
+85,Mara,11/10/2018,13,Serengeti,christian,fgm,police,reconciliation with parents,Counselling,Other Issues,1
+86,Mara,2/23/2019,16,Serengeti,christian,fgm,religious leader,reconciliation with parents,Counselling,Other Issues,1
+87,Mara,1/16/2019,14,Serengeti,christian,fgm,came herself,reconciliation with parents,Counselling,UTI,1
+88,Mara,12/17/2019,13,Serengeti,christian,fgm,police,reconciliation with parents,Counselling,UTI,1
+89,Mara,2/4/2020,14,Serengeti,christian,fgm,social welfare officer,reconciliation with parents,Counselling,UTI,1
+90,Mara,1/20/2020,16,Serengeti,christian,fgm,police,reconciliation with parents,Counselling,UTI,1
+91,Mara,10/3/2019,10,Serengeti,christian,violence,police,reconciliation with parents,Counselling,UTI,1
+92,Mara,3/3/2019,5,Serengeti,christian,violence,police,long term protection,Counselling,UTI,1
+96,Mara,11/16/2018,14,Serengeti,christian,child marriage,police,short term protection,Counselling,Heathy,0
+97,Mara,1/2/2020,16,Serengeti,christian,child marriage,police,short term protection,Counselling,Heathy,0
+99,Mara,11/4/2019,11,Serengeti,christian,violence,police,short term protection,Counselling,Heathy,1
+100,Mara,5/15/2019,5,Serengeti,christian,violence,police,short term protection,Counselling,Heathy,1
+101,Arusha,11/1/2017,16,Ngorongoro,christian,fgm,religious leader,short term protection,Counselling,UTI,1
+102,Mara,3/29/2019,14,Serengeti,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+105,Mara,10/4/2019,14,Serengeti,christian,child marriage,police,short term protection,Counselling,UTI,1
+110,Mara,9/25/2018,15,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,1
+111,Mara,9/16/2018,17,Serengeti,christian,fgm,police,reconciliation with parents,Underwear,Heathy,1
+112,Mara,9/21/2018,14,Serengeti,paganism,fgm,police,reconciliation with parents,Counselling,UTI,1
+114,Mara,2/13/2020,8,Serengeti,christian,fgm,police,short term protection,Underwear,Other Issues,1
+119,Mara,9/5/2019,24,Serengeti,christian,violence,police,short term protection,Counselling,Other Issues,0
+121,Mara,11/25/2017,7,Butiam,christian,other,police,short term protection,Underwear,UTI,1
+122,Mara,11/25/2017,8,Rorya,paganism,other,police,short term protection,Underwear,UTI,1
+124,Mara,11/25/2017,10,Rorya,christian,other,police,short term protection,Underwear,UTI,1
+126,Mara,11/20/2017,14,Rorya,christian,fgm,police,short term protection,Underwear,UTI,1
+128,Mara,11/20/2017,13,Rorya,paganism,fgm,police,short term protection,Shoes,UTI,1
+129,Mara,11/20/2017,12,Rorya,christian,fgm,police,short term protection,Underwear,UTI,1
+130,Mara,11/20/2017,10,Rorya,christian,fgm,police,short term protection,Underwear,UTI,1
+131,Mara,11/17/2017,12,Rorya,christian,child marriage,police,short term protection,Underwear,Heathy,0
+132,Mara,9/25/2018,9,Serengeti,christian,fgm,police,short term protection,Counselling,Heathy,1
+133,Mara,9/29/2018,11,Serengeti,christian,fgm,police,short term protection,Counselling,Heathy,1
+134,Mara,11/5/2018,14,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,1
+135,Mara,9/16/2018,12,Serengeti,christian,fgm,police,short term protection,Counselling,Heathy,1
+136,Mara,10/3/2018,14,Bunda,christian,other,police,short term protection,Counselling,Heathy,1
+137,Mara,9/25/2018,10,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,1
+138,Mara,9/25/2018,13,Serengeti,christian,fgm,police,short term protection,Counselling,Heathy,1
+139,Mara,11/10/2017,15,Serengeti,christian,fgm,police,short term protection,Counselling,Heathy,0
+142,Mara,9/14/2018,15,Serengeti,christian,fgm,police,short term protection,Counselling,Heathy,1
+143,Mara,9/14/2018,14,Serengeti,christian,fgm,police,short term protection,Counselling,Other Issues,1
+144,Mara,9/14/2018,16,Serengeti,christian,fgm,police,short term protection,Counselling,Heathy,1
+145,Mara,6/1/2018,6,Bunda,christian,other,police,short term protection,Counselling,Heathy,1
+146,Arusha,6/16/2018,16,Ngorongoro,christian,fgm,police,short term protection,Counselling,Heathy,1
+147,Mwanza,6/18/2018,10,Ilemela,muslim,other,police,short term protection,Counselling,Heathy,1
+148,Mara,6/18/2018,14,Serengeti,christian,child marriage,police,short term protection,Counselling,Heathy,0
+149,Mara,11/20/2017,4,Rorya,christian,fgm,police,short term protection,Counselling,Heathy,0
+150,Mara,10/25/2019,16,Serengeti,christian,other,police,short term protection,Counselling,Heathy,1
+151,Mara,2/14/2019,16,Serengeti,christian,violence,police,short term protection,Counselling,Heathy,1
+152,Mara,1/9/2019,14,Serengeti,christian,child marriage,police,short term protection,Counselling,Heathy,0
+153,Mara,1/22/2019,10,Serengeti,christian,violence,police,short term protection,Counselling,Heathy,1
+154,Mara,11/20/2017,17,Rorya,christian,child marriage,police,short term protection,Counselling,Heathy,0
+155,Mara,11/20/2017,14,Rorya,christian,fgm,police,short term protection,Counselling,UTI,1
+157,Mara,11/7/2017,17,Serengeti,christian,child marriage,family member,short term protection,Counselling,UTI,1
+166,Mara,11/25/2017,8,Rorya,christian,child marriage,other,short term protection,Other,UTI,0
+168,Mara,12/2/2019,30,Serengeti,muslim,violence,police,short term protection,Counselling,UTI,0
+169,Mara,1/22/2018,16,Serengeti,christian,fgm,police,short term protection,Counselling,Heathy,0
+173,Mara,11/10/2019,20,Serengeti,christian,violence,police,short term protection,Counselling,UTI,0
+174,Mara,9/19/2018,14,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,1
+175,Mara,1/7/2019,13,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,1
+176,Mara,9/21/2018,12,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,1
+177,Mara,12/5/2018,16,Serengeti,christian,child marriage,social welfare officer,short term protection,Counselling,Other Issues,1
+178,Mara,9/11/2019,10,Serengeti,christian,violence,volunteer,short term protection,Counselling,UTI,1
+179,Mara,3/28/2019,12,Serengeti,christian,violence,police,short term protection,Counselling,UTI,1
+180,Mara,3/28/2019,10,Serengeti,christian,violence,police,short term protection,Counselling,UTI,1
+181,Mara,12/5/2019,8,Serengeti,christian,rape,police,short term protection,Counselling,UTI,1
+182,Mara,11/20/2017,14,Rorya,christian,fgm,police,short term protection,Other,Other Issues,1
+183,Mara,11/17/2017,9,Rorya,christian,fgm,police,short term protection,Other,UTI,1
+184,Mara,11/20/2017,14,Rorya,christian,fgm,police,short term protection,Counselling,UTI,1
+185,Mara,11/20/2017,10,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,0
+186,Mara,1/16/2018,16,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,1
+187,Mara,2/10/2018,15,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,0
+188,Arusha,6/16/2018,14,Ngorongoro,christian,fgm,religious leader,short term protection,Counselling,UTI,1
+189,Mara,9/16/2018,14,Serengeti,christian,fgm,police,short term protection,Other,UTI,1
+190,Mara,12/4/2018,12,Serengeti,christian,fgm,police,short term protection,Other,Heathy,1
+191,Mara,9/21/2018,12,Serengeti,christian,fgm,police,short term protection,Other,Heathy,0
+192,Mara,12/3/2018,16,Serengeti,christian,fgm,police,short term protection,Other,Heathy,1
+193,Mara,11/20/2018,16,Serengeti,christian,violence,police,short term protection,Other,Heathy,1
+194,Mara,12/4/2018,14,Serengeti,christian,fgm,police,short term protection,Other,Heathy,1
+195,Mara,12/30/2019,11,Serengeti,christian,violence,police,short term protection,Counselling,Heathy,1
+196,Mara,12/3/2018,15,Serengeti,christian,fgm,police,short term protection,Counselling,Heathy,1
+197,Mara,2/3/2019,14,Serengeti,christian,child marriage,police,long term protection,Counselling,UTI,1
+198,Mara,7/28/2019,14,Serengeti,christian,child marriage,police,short term protection,Counselling,UTI,0
+199,Mara,9/19/2018,12,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,1
+200,Mara,11/6/2017,16,Rorya,christian,fgm,volunteer,long term protection,Counselling,UTI,1
+201,Mara,4/12/2019,14,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,1
+203,Mara,1/23/2020,14,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,0
+204,Mara,11/1/2019,14,Serengeti,christian,child marriage,police,short term protection,Counselling,UTI,1
+205,Mara,6/1/2019,14,Serengeti,christian,fgm,school teacher,short term protection,Counselling,UTI,1
+207,Mara,9/11/2018,15,Serengeti,christian,rape,police,long term protection,Counselling,Pregnant,1
+208,Mara,10/30/2017,15,Serengeti,christian,fgm,police,long term protection,Counselling,UTI,1
+209,Arusha,11/8/2017,16,Ngorongoro,christian,fgm,religious leader,long term protection,Shoes,UTI,1
+210,Mara,10/30/2018,14,Serengeti,christian,fgm,police,long term protection,Counselling,UTI,1
+211,Mara,10/8/2018,15,Serengeti,christian,fgm,police,long term protection,Counselling,UTI,1
+212,Mara,2/26/2019,16,Serengeti,christian,child marriage,police,short term protection,Counselling,UTI,0
+213,Mara,12/3/2018,14,Serengeti,christian,fgm,police,long term protection,Counselling,UTI,1
+214,Mara,10/15/2017,12,Serengeti,christian,fgm,police,long term protection,Counselling,Pregnant,1
+215,Arusha,11/8/2017,17,Ngorongoro,christian,child marriage,police,short term protection,Counselling,UTI,1
+217,Mara,11/20/2017,13,Rorya,christian,fgm,police,short term protection,Counselling,UTI,1
+218,Mara,11/17/2017,12,Rorya,christian,fgm,police,short term protection,Counselling,UTI,1
+219,Mara,11/25/2017,12,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,1
+220,Mara,11/20/2017,11,Serengeti,christian,fgm,police,short term protection,Counselling,Heathy,1
+221,Mara,12/4/2018,13,Serengeti,christian,fgm,police,short term protection,Counselling,Heathy,1
+222,Mara,12/4/2018,12,Serengeti,christian,fgm,police,short term protection,Counselling,Heathy,1
+223,Mara,12/4/2018,12,Serengeti,christian,fgm,police,short term protection,Counselling,Heathy,1
+224,Mara,12/3/2018,15,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,1
+225,Mara,12/1/2018,16,Serengeti,christian,fgm,police,short term protection,Counselling,Heathy,1
+226,Mara,11/29/2018,14,Serengeti,christian,fgm,police,short term protection,Counselling,Heathy,1
+227,Mara,12/7/2018,13,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,1
+228,Mara,12/7/2018,12,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,1
+229,Mara,12/4/2018,11,Serengeti,christian,fgm,police,short term protection,Counselling,Other Issues,1
+230,Mara,12/4/2018,13,Serengeti,muslim,fgm,police,short term protection,Counselling,UTI,1
+231,Mara,12/7/2018,10,Serengeti,christian,fgm,police,short term protection,Counselling,Heathy,1
+232,Mara,12/7/2018,12,Serengeti,christian,fgm,police,short term protection,Counselling,Heathy,1
+233,Mara,12/7/2018,13,Serengeti,christian,fgm,police,short term protection,Counselling,Heathy,1
+234,Mara,12/7/2018,13,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,1
+235,Mara,11/19/2018,10,Serengeti,christian,fgm,police,short term protection,Counselling,Heathy,1
+236,Mara,12/7/2018,13,Serengeti,christian,fgm,police,short term protection,Counselling,Heathy,1
+237,Mara,12/7/2018,14,Serengeti,christian,fgm,police,short term protection,Counselling,Heathy,1
+238,Mara,12/7/2018,14,Serengeti,christian,fgm,police,short term protection,Counselling,Heathy,1
+239,Mara,12/7/2018,11,Serengeti,christian,fgm,police,short term protection,Counselling,Heathy,1
+240,Mara,12/14/2018,14,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,0
+241,Mara,12/7/2018,14,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,1
+242,Mara,12/7/2018,14,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,1
+244,Mara,12/1/2018,13,Serengeti,christian,fgm,police,short term protection,Counselling,Heathy,1
+245,Mara,11/24/2018,15,Serengeti,christian,fgm,police,short term protection,Counselling,Heathy,1
+246,Mara,12/7/2018,14,Serengeti,christian,fgm,police,short term protection,Counselling,Heathy,1
+247,Mara,12/7/2018,12,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,1
+248,Mara,2/14/2020,19,Serengeti,christian,fgm,religious leader,reconciliation with parents,Counselling,Heathy,1
+249,Mara,9/11/2018,14,Tarime,christian,fgm,volunteer,long term protection,Counselling,Heathy,1
+250,Mara,12/5/2017,13,Serengeti,christian,fgm,volunteer,long term protection,Counselling,Heathy,1
+251,Mara,12/5/2017,12,Rorya,christian,child marriage,religious leader,long term protection,Counselling,Heathy,1
+252,Mara,11/5/2017,12,Rorya,christian,fgm,religious leader,long term protection,Counselling,Heathy,1
+253,Mara,2/8/2018,12,Serengeti,christian,fgm,volunteer,long term protection,Clothes,Heathy,1
+254,Mara,11/19/2018,14,Tarime,christian,fgm,volunteer,long term protection,Counselling,Heathy,1
+255,Mara,12/11/2017,14,Butiam,christian,fgm,volunteer,long term protection,Counselling,Heathy,1
+256,Mara,12/11/2017,14,Butiam,christian,fgm,volunteer,long term protection,Counselling,Heathy,1
+257,Mara,11/4/2018,16,Tarime,christian,fgm,volunteer,long term protection,Other,Heathy,1
+258,Mara,12/7/2018,11,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,1
+259,Mara,12/7/2018,14,Serengeti,christian,fgm,police,short term protection,Counselling,Pregnant,1
+260,Mara,12/8/2018,11,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,1
+261,Mara,12/7/2018,12,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,1
+262,Mara,12/7/2018,12,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,1
+263,Mara,12/7/2018,12,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,1
+264,Mara,12/7/2018,14,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,1
+265,Mara,5/11/2018,10,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,0
+266,Mara,5/11/2018,29,Serengeti,paganism,fgm,police,short term protection,Counselling,UTI,0
+267,Mara,12/7/2018,12,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,1
+268,Mara,12/7/2018,12,Serengeti,christian,fgm,social welfare officer,short term protection,Counselling,UTI,1
+269,Mara,12/7/2018,12,Serengeti,christian,fgm,police,reconciliation with parents,Counselling,UTI,1
+270,Mara,12/7/2018,12,Serengeti,christian,fgm,police,reconciliation with parents,Counselling,Heathy,1
+271,Mara,12/7/2018,12,Serengeti,christian,fgm,police,reconciliation with parents,Counselling,Heathy,1
+272,Mara,12/7/2018,13,Serengeti,christian,fgm,police,reconciliation with parents,Other,UTI,1
+273,Mara,12/8/2018,14,Serengeti,christian,fgm,police,reconciliation with parents,Counselling,Heathy,1
+274,Mara,12/24/2019,15,Serengeti,christian,violence,police,short term protection,Counselling,Heathy,1
+275,Mara,11/17/2017,16,Rorya,christian,fgm,police,short term protection,Counselling,UTI,1
+276,Mara,10/28/2017,13,Serengeti,christian,fgm,police,reconciliation with parents,Counselling,Heathy,1
+277,Mara,9/25/2018,13,Serengeti,christian,fgm,police,short term protection,Counselling,Heathy,1
+278,Mara,12/7/2018,14,Serengeti,christian,fgm,police,short term protection,Counselling,Heathy,1
+280,Mara,12/7/2018,11,Serengeti,christian,fgm,police,short term protection,Counselling,Heathy,1
+281,Mara,11/8/2018,12,Serengeti,christian,fgm,police,short term protection,Counselling,Heathy,1
+282,Mara,12/7/2018,12,Serengeti,christian,fgm,police,short term protection,Counselling,Heathy,1
+283,Mara,12/7/2018,12,Serengeti,christian,fgm,police,short term protection,Counselling,Heathy,1
+284,Mara,12/24/2018,14,Serengeti,christian,fgm,police,short term protection,Counselling,Heathy,1
+285,Mara,12/7/2018,3,Serengeti,christian,fgm,police,short term protection,Counselling,Heathy,1
+290,Mara,12/7/2018,14,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,1
+295,Mara,12/7/2018,13,Serengeti,christian,fgm,police,short term protection,Counselling,Heathy,1
+304,Mara,5/4/2018,2,Butiam,christian,violence,police,short term protection,Counselling,Heathy,0
+305,Mara,6/10/2019,13,Serengeti,christian,violence,social welfare officer,short term protection,Counselling,Heathy,1
+306,Mara,6/10/2019,10,Serengeti,christian,violence,social welfare officer,short term protection,Counselling,UTI,1
+307,Mara,12/7/2017,14,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,1
+308,Mara,11/8/2018,14,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,1
+309,Mara,9/15/2018,16,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,0
+311,Mara,10/13/2018,16,Serengeti,christian,fgm,volunteer,short term protection,Counselling,UTI,1
+312,Mara,11/1/2018,15,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,0
+313,Mara,10/6/2018,13,Serengeti,christian,fgm,police,short term protection,Shoes,UTI,0
+314,Mara,1/15/2018,12,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,1
+315,Mara,7/12/2018,14,Serengeti,christian,fgm,police,short term protection,Shoes,UTI,1
+316,Mara,3/6/2018,15,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,0
+317,Mara,11/23/2017,13,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,1
+318,Mara,12/5/2017,15,Serengeti,christian,fgm,police,short term protection,Shoes,UTI,1
+319,Mara,12/5/2017,15,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,1
+320,Mara,12/5/2017,16,Serengeti,christian,child marriage,police,short term protection,Underwear,UTI,1
+321,Mara,12/6/2017,15,Serengeti,christian,fgm,police,short term protection,Underwear,Heathy,1
+322,Mara,12/7/2018,12,Serengeti,christian,fgm,social welfare officer,short term protection,Counselling,UTI,1
+323,Mara,1/10/2019,13,Serengeti,christian,fgm,social welfare officer,short term protection,Counselling,UTI,1
+325,Mara,12/8/2018,15,Serengeti,christian,child marriage,police,short term protection,Counselling,UTI,1
+326,Mara,10/4/2018,12,Serengeti,christian,fgm,social welfare officer,short term protection,Counselling,UTI,1
+327,Mara,11/7/2018,14,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,1
+330,Mara,12/10/2018,10,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,1
+331,Mara,12/5/2018,13,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,1
+332,Mara,1/8/2019,11,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,1
+333,Mara,1/8/2019,13,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,1
+334,Mara,2/15/2019,12,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,1
+335,Mara,1/22/2019,16,Serengeti,christian,fgm,police,short term protection,Counselling,Heathy,1
+336,Mara,1/20/2019,16,Serengeti,christian,fgm,police,short term protection,Counselling,Heathy,0
+337,Mara,11/26/2018,12,Tarime,christian,fgm,volunteer,long term protection,Counselling,Heathy,1
+338,Mara,12/28/2017,14,Tarime,christian,fgm,volunteer,long term protection,Counselling,Heathy,0
+339,Mara,12/23/2017,9,Butiam,christian,rape,community member,long term protection,Counselling,Heathy,1
+340,Mara,11/22/2018,13,Tarime,christian,fgm,volunteer,long term protection,Counselling,Heathy,1
+341,Mara,12/15/2017,7,Rorya,christian,rape,volunteer,long term protection,Counselling,Heathy,1
+342,Mara,11/29/2017,6,Butiam,christian,rape,community member,long term protection,Counselling,Heathy,1
+343,Mara,9/11/2018,14,Serengeti,christian,rape,government leader,short term protection,Counselling,Heathy,1
+344,Mara,11/5/2018,14,Serengeti,christian,fgm,family member,short term protection,Counselling,Heathy,1
+345,Mara,9/29/2018,14,Serengeti,christian,fgm,police,short term protection,Counselling,Heathy,1
+346,Mara,9/9/2018,14,Serengeti,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+347,Mara,11/15/2018,14,Serengeti,christian,fgm,school teacher,short term protection,Counselling,Heathy,1
+348,Mara,11/20/2017,14,Rorya,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+349,Mara,11/20/2017,15,Rorya,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+350,Mara,10/8/2018,14,Serengeti,christian,fgm,police,short term protection,Counselling,Heathy,1
+351,Mara,9/24/2018,14,Serengeti,christian,fgm,police,short term protection,Counselling,Heathy,1
+352,Mara,11/6/2017,15,Rorya,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+353,Mara,12/7/2018,12,Serengeti,christian,fgm,social welfare officer,short term protection,Counselling,UTI,1
+355,Mara,12/7/2018,13,Serengeti,christian,fgm,police,short term protection,Counselling,Heathy,1
+357,Mara,12/7/2018,14,Serengeti,christian,fgm,police,short term protection,Counselling,Heathy,1
+358,Mara,12/14/2018,13,Serengeti,christian,fgm,police,short term protection,Counselling,Heathy,1
+359,Mara,12/8/2018,13,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,1
+360,Mara,12/8/2018,13,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,1
+361,Mara,12/8/2018,14,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,1
+363,Mara,12/7/2018,13,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,1
+365,Mara,12/8/2018,14,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,1
+366,Mara,12/13/2018,13,Serengeti,christian,fgm,police,short term protection,Counselling,Heathy,1
+367,Mara,12/9/2017,12,Serengeti,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+372,Mara,12/8/2017,12,Serengeti,paganism,fgm,police,short term protection,Counselling,Heathy,1
+373,Mara,12/9/2017,13,Serengeti,paganism,fgm,police,short term protection,Counselling,UTI,1
+374,Mara,12/8/2017,14,Serengeti,paganism,fgm,police,short term protection,Counselling,UTI,1
+375,Mara,11/1/2018,10,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+376,Mara,11/15/2018,5,Butiam,christian,rape,police,long term protection,Counselling,UTI,0
+377,Mara,7/18/2019,15,Bunda,christian,rape,police,short term protection,Counselling,UTI,1
+378,Mara,8/7/2019,14,Bunda,christian,rape,police,prosecution,Counselling,UTI,1
+379,Mara,11/4/2018,14,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+380,Mara,12/4/2018,9,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+381,Mara,11/1/2018,15,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+382,Mara,11/1/2018,10,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+383,Mara,11/1/2018,10,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+384,Mara,12/5/2018,14,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+385,Mara,11/1/2018,10,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+386,Mara,11/1/2018,9,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+387,Mara,11/1/2018,14,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+388,Mara,12/5/2018,6,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+389,Mara,11/1/2018,11,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+390,Mara,12/3/2019,14,Tarime,christian,fgm,volunteer,short term protection,Other,Heathy,0
+391,Mara,11/11/2018,14,Tarime,christian,fgm,volunteer,prosecution,Other,Heathy,1
+392,Mara,11/21/2019,10,Tarime,christian,fgm,volunteer,prosecution,Other,Heathy,1
+393,Mara,11/11/2018,17,Tarime,christian,fgm,volunteer,prosecution,Other,Heathy,1
+394,Mara,7/16/2019,12,Musoma,christian,fgm,police,prosecution,Other,Heathy,1
+395,Mara,6/16/2019,10,Musoma,christian,fgm,police,prosecution,Other,Heathy,1
+396,Mara,9/8/2019,12,Rorya,christian,fgm,police,prosecution,Other,Heathy,1
+397,Mara,11/11/2018,13,Tarime,christian,fgm,volunteer,prosecution,Other,Heathy,1
+398,Mara,10/25/2019,5,Bunda,christian,violence,police,long term protection,Counselling,UTI,0
+399,Mara,11/21/2019,9,Tarime,christian,fgm,volunteer,prosecution,Other,Heathy,0
+400,Mara,11/9/2019,13,Tarime,christian,fgm,volunteer,prosecution,Other,Heathy,0
+402,Mara,11/11/2018,14,Tarime,christian,fgm,volunteer,prosecution,Other,Heathy,1
+403,Mara,11/29/2019,13,Tarime,christian,fgm,police,prosecution,Other,Heathy,1
+404,Mara,11/11/2018,10,Tarime,christian,fgm,volunteer,prosecution,Other,Heathy,1
+406,Mara,12/4/2018,10,Tarime,christian,fgm,volunteer,prosecution,Other,Heathy,1
+407,Mara,12/4/2018,14,Tarime,christian,fgm,volunteer,prosecution,Other,Heathy,1
+408,Mara,12/3/2018,8,Tarime,christian,fgm,volunteer,prosecution,Other,Heathy,1
+409,Mara,11/4/2018,11,Tarime,christian,fgm,volunteer,prosecution,Other,Heathy,1
+410,Mara,12/4/2018,12,Tarime,christian,fgm,volunteer,prosecution,Other,Heathy,1
+411,Mara,12/4/2018,13,Tarime,christian,fgm,volunteer,prosecution,Other,Heathy,1
+412,Mara,12/4/2018,14,Tarime,christian,fgm,volunteer,prosecution,Other,Heathy,1
+414,Mara,11/11/2018,14,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,0
+415,Mara,11/20/2018,15,Tarime,christian,fgm,came herself,short term protection,Counselling,Heathy,1
+416,Mara,11/11/2019,13,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+417,Mara,11/11/2018,11,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+418,Mara,11/18/2018,13,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+419,Mara,11/11/2018,13,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+420,Mara,11/11/2018,14,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,0
+421,Mara,12/4/2018,8,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+422,Mara,12/4/2018,13,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+423,Mara,12/4/2018,16,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+424,Mara,11/4/2018,7,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+425,Mara,12/4/2018,14,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+426,Mara,12/4/2018,13,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+427,Mara,12/12/2018,14,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,0
+428,Mara,12/1/2018,16,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,0
+429,Mara,12/1/2018,16,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+430,Mara,11/26/2018,12,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+431,Mara,12/4/2018,13,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,0
+432,Mara,11/26/2018,15,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+433,Mara,1/8/2020,6,Musoma,christian,violence,community member,short term protection,Counselling,Heathy,0
+434,Mara,11/11/2018,15,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+435,Mara,11/1/2018,19,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+436,Mara,12/9/2018,16,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+437,Mara,12/9/2018,17,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+438,Mara,12/9/2018,13,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+439,Mara,11/22/2018,15,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+440,Mara,12/9/2018,11,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+441,Mara,12/9/2018,14,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+442,Mara,12/9/2018,11,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+443,Mara,12/9/2018,9,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+444,Mara,12/9/2018,14,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+445,Mara,11/22/2018,1,Butiam,christian,violence,government leader,long term protection,Shoes,Heathy,0
+446,Mara,11/8/2018,14,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+447,Mara,11/8/2018,13,Tarime,christian,fgm,religious leader,short term protection,Counselling,Heathy,1
+448,Mara,11/29/2018,13,Tarime,christian,fgm,volunteer,short term protection,Shoes,Heathy,1
+449,Mara,2/18/2020,18,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+450,Mara,11/8/2018,17,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+451,Mara,11/1/2018,15,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+452,Mara,11/1/2018,14,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+453,Mara,11/1/2018,12,Tarime,christian,fgm,volunteer,short term protection,Shoes,Heathy,1
+454,Mara,11/1/2018,9,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+455,Mara,11/1/2018,14,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+456,Mara,11/8/2018,8,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+457,Mara,11/1/2018,15,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+458,Mara,11/1/2018,13,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+459,Mara,11/1/2018,14,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+460,Mara,11/1/2018,12,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+461,Mara,11/1/2018,10,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+462,Mara,11/1/2018,11,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+463,Mara,11/1/2018,12,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+464,Mara,12/4/2018,15,Tarime,christian,fgm,volunteer,prosecution,Other,Heathy,1
+465,Mara,12/4/2018,10,Tarime,christian,fgm,volunteer,prosecution,Other,Heathy,1
+466,Mara,12/1/2018,14,Tarime,christian,fgm,volunteer,prosecution,Other,Heathy,1
+467,Mara,12/1/2018,13,Tarime,christian,fgm,volunteer,prosecution,Other,Heathy,1
+470,Mara,12/1/2018,9,Tarime,christian,fgm,volunteer,prosecution,Other,Heathy,1
+472,Mara,12/9/2018,16,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+473,Mara,11/1/2018,11,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+474,Mara,11/1/2018,9,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+475,Mara,2/18/2020,13,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+476,Mara,11/1/2018,14,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+477,Mara,11/1/2018,17,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+478,Mara,11/1/2018,13,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+479,Mara,11/1/2018,14,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+480,Mara,11/1/2018,11,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+481,Mara,11/1/2018,14,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+482,Mara,11/1/2018,6,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+483,Mara,11/1/2018,10,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+484,Mara,11/1/2018,6,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+485,Mara,12/9/2018,11,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+486,Mara,12/11/2018,14,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+487,Mara,12/9/2018,6,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+488,Mara,12/1/2018,12,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+489,Mara,12/1/2018,12,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+490,Mara,12/1/2018,13,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+491,Mara,12/9/2018,10,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+492,Mara,12/1/2018,16,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+493,Mara,12/9/2018,19,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,0
+494,Mara,12/9/2018,14,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+495,Mara,10/16/2018,17,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,0
+496,Mara,11/8/2018,6,Tarime,christian,child marriage,community member,short term protection,Counselling,Heathy,0
+497,Mara,12/7/2018,8,Tarime,christian,rape,police,short term protection,Counselling,Heathy,0
+498,Mara,11/12/2018,12,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+499,Mara,12/3/2018,10,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,0
+500,Mara,9/20/2018,15,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+501,Mara,12/10/2018,16,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+504,Mara,12/29/2018,14,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+505,Mara,12/12/2018,15,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+506,Mara,11/30/2018,16,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+507,Mara,12/27/2018,13,Tarime,christian,fgm,came herself,short term protection,Counselling,Heathy,1
+508,Mara,12/28/2018,13,Tarime,christian,fgm,came herself,short term protection,Counselling,Heathy,1
+509,Mara,12/27/2017,14,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+510,Mara,1/23/2018,24,Tarime,christian,fgm,community member,short term protection,Counselling,Heathy,1
+511,Mara,12/28/2017,12,Tarime,christian,fgm,school teacher,short term protection,Counselling,Heathy,1
+512,Mara,11/30/2018,14,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+513,Mara,12/21/2018,13,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+514,Mwanza,12/7/2018,16,Magu,christian,child marriage,came herself,short term protection,Counselling,Heathy,0
+515,Mwanza,12/7/2018,15,Magu,christian,child marriage,community member,short term protection,Counselling,Heathy,0
+516,Mara,12/7/2018,11,Tarime,christian,child marriage,religious leader,short term protection,Counselling,Heathy,0
+517,Mara,12/6/2018,12,Tarime,christian,fgm,community member,short term protection,Counselling,Heathy,1
+518,Mwanza,12/7/2018,13,Magu,christian,child marriage,came herself,short term protection,Counselling,Heathy,0
+519,Mara,12/7/2018,16,Tarime,christian,fgm,came herself,short term protection,Counselling,Heathy,1
+520,Mara,12/7/2018,14,Tarime,christian,fgm,came herself,short term protection,Counselling,Heathy,1
+521,Mara,11/2/2018,11,Tarime,christian,rape,community member,short term protection,Counselling,Heathy,0
+522,Mara,12/8/2018,11,Butiam,christian,rape,community member,short term protection,Counselling,Heathy,0
+523,Mara,12/6/2017,12,Tarime,christian,fgm,community member,short term protection,Counselling,Heathy,1
+524,Mara,12/8/2018,13,Serengeti,christian,fgm,came herself,short term protection,Counselling,Heathy,0
+525,Mara,10/27/2018,5,Tarime,christian,violence,volunteer,short term protection,Counselling,Heathy,0
+526,Mara,12/9/2017,8,Tarime,christian,rape,volunteer,short term protection,Counselling,Heathy,0
+527,Mara,12/29/2018,11,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+528,Mara,12/8/2018,10,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+529,Mara,12/8/2018,16,Butiam,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+530,Mara,12/8/2018,8,Butiam,christian,violence,volunteer,short term protection,Counselling,Heathy,0
+531,Mwanza,11/16/2018,14,Magu,christian,child marriage,religious leader,short term protection,Counselling,Heathy,0
+532,Mara,10/2/2019,12,Bunda,christian,fgm,social welfare officer,short term protection,Counselling,Heathy,1
+533,Mara,10/8/2019,15,Musoma,christian,fgm,social welfare officer,short term protection,Counselling,Heathy,1
+534,Mara,9/3/2019,13,Musoma,christian,fgm,police,short term protection,Counselling,Heathy,1
+535,Mara,11/5/2019,10,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+536,Mara,11/6/2019,15,Butiam,christian,fgm,police,short term protection,Counselling,Heathy,1
+537,Mara,11/13/2019,18,Butiam,christian,fgm,police,short term protection,Counselling,Heathy,1
+538,Mara,12/2/2019,15,Butiam,christian,fgm,police,short term protection,Other,Heathy,1
+539,Mara,11/7/2019,12,Butiam,christian,fgm,community member,short term protection,Other,Heathy,1
+540,Mara,11/5/2019,16,Butiam,christian,fgm,came herself,short term protection,Other,Heathy,1
+541,Mara,12/10/2019,12,Butiam,christian,fgm,came herself,short term protection,Other,Heathy,1
+542,Mara,10/30/2019,15,Butiam,christian,child marriage,police,prosecution,Other,UTI,1
+543,Mara,5/15/2019,18,Butiam,christian,violence,religious leader,reconciliation with parents,Counselling,UTI,1
+544,Mara,3/28/2019,16,Butiam,christian,rape,police,prosecution,Other,STI,1
+545,Mara,12/10/2019,9,Butiam,christian,child marriage,school teacher,reconciliation with parents,Counselling,UTI,1
+546,Mara,9/23/2019,12,Butiam,christian,child marriage,social welfare officer,short term protection,Other,UTI,1
+547,Mara,10/15/2019,14,Butiam,christian,violence,came herself,reconciliation with parents,Counselling,UTI,1
+548,Mara,12/12/2018,15,Butiam,christian,rape,came herself,short term protection,Counselling,UTI,1
+549,Mara,11/7/2018,15,Butiam,christian,violence,school teacher,reconciliation with parents,Counselling,Heathy,1
+550,Mara,5/7/2019,14,Tarime,muslim,fgm,volunteer,short term protection,Other,Heathy,1
+551,Mara,11/5/2018,16,Tarime,christian,fgm,volunteer,short term protection,Other,Heathy,1
+552,Mara,7/2/2019,11,Bunda,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+553,Mwanza,8/7/2019,13,Nyamagana,christian,fgm,came herself,reconciliation with parents,Counselling,Heathy,1
+554,Mara,6/4/2019,11,Tarime,christian,fgm,came herself,short term protection,Counselling,UTI,1
+555,Mwanza,12/4/2018,13,Nyamagana,christian,fgm,came herself,short term protection,Other,UTI,1
+556,Mara,8/7/2019,18,Tarime,christian,fgm,came herself,short term protection,Counselling,Heathy,1
+557,Mara,6/4/2019,13,Tarime,christian,fgm,came herself,short term protection,Shoes,Heathy,1
+558,Mara,8/7/2019,12,Butiam,christian,fgm,came herself,short term protection,Counselling,UTI,1
+559,Mara,9/18/2019,11,Tarime,christian,fgm,school teacher,short term protection,Counselling,Heathy,1
+560,Mara,11/10/2017,18,Tarime,christian,child marriage,police,prosecution,Other,Heathy,0
+562,Mara,11/11/2018,18,Tarime,christian,fgm,volunteer,prosecution,Other,Heathy,1
+564,Mara,11/4/2018,15,Tarime,christian,fgm,volunteer,prosecution,Other,Heathy,1
+565,Mara,12/2/2018,16,Tarime,christian,fgm,volunteer,prosecution,Other,Heathy,1
+566,Mara,1/4/2019,15,Tarime,christian,fgm,volunteer,prosecution,Other,Heathy,1
+567,Mara,12/5/2018,17,Tarime,christian,fgm,volunteer,prosecution,Other,Heathy,1
+568,Mara,11/29/2018,18,Tarime,christian,fgm,volunteer,prosecution,Other,Heathy,1
+569,Mara,12/2/2018,12,Tarime,christian,fgm,volunteer,prosecution,Other,Heathy,1
+570,Mara,11/10/2018,16,Serengeti,christian,fgm,volunteer,prosecution,Other,Heathy,1
+571,Mara,12/6/2017,18,Serengeti,christian,fgm,volunteer,prosecution,Other,Heathy,1
+572,Mara,12/7/2017,17,Tarime,christian,fgm,police,prosecution,Other,Heathy,1
+573,Mara,12/8/2017,18,Serengeti,christian,fgm,volunteer,prosecution,Other,Heathy,1
+575,Mara,12/5/2017,15,Tarime,christian,child marriage,police,prosecution,Other,Heathy,1
+576,Mara,12/6/2019,19,Tarime,christian,fgm,volunteer,prosecution,Counselling,Heathy,1
+577,Mara,12/6/2019,14,Tarime,christian,fgm,volunteer,prosecution,Other,Heathy,1
+578,Mara,12/6/2019,19,Tarime,christian,child marriage,police,prosecution,Other,Heathy,0
+580,Mara,12/6/2019,15,Tarime,christian,child marriage,volunteer,prosecution,Other,Heathy,0
+581,Mara,11/5/2018,14,Serengeti,christian,fgm,volunteer,prosecution,Other,Heathy,1
+582,Mara,12/6/2017,10,Tarime,christian,fgm,volunteer,prosecution,Other,Heathy,1
+583,Mara,12/6/2017,14,Tarime,christian,fgm,volunteer,prosecution,Other,Heathy,1
+589,Mara,12/3/2018,12,Serengeti,paganism,fgm,police,short term protection,Counselling,UTI,1
+592,Mara,12/19/2018,13,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,1
+593,Mara,12/1/2017,12,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,1
+594,Mara,12/19/2017,14,Serengeti,paganism,fgm,police,short term protection,Counselling,UTI,1
+595,Mara,12/18/2017,14,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,1
+596,Mara,12/15/2018,15,Serengeti,christian,fgm,police,short term protection,Counselling,Heathy,1
+597,Mara,3/6/2018,14,Serengeti,paganism,fgm,police,short term protection,Counselling,UTI,1
+599,Mara,12/21/2018,12,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,1
+600,Mara,12/24/2018,11,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,1
+601,Mara,12/16/2018,13,Serengeti,christian,other,police,short term protection,Counselling,Other Issues,1
+602,Mara,12/18/2018,12,Serengeti,christian,child marriage,police,short term protection,Counselling,UTI,1
+603,Mara,12/5/2018,13,Serengeti,muslim,child marriage,police,short term protection,Counselling,UTI,1
+604,Mara,12/2/2018,13,Serengeti,christian,fgm,police,short term protection,Counselling,STI,1
+605,Mara,12/15/2018,14,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,1
+606,Mara,12/8/2018,11,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,1
+607,Mara,12/12/2018,13,Serengeti,muslim,child marriage,police,short term protection,Underwear,UTI,1
+608,Mara,12/11/2018,11,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,1
+609,Mara,12/2/2018,12,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,1
+610,Mara,12/23/2018,13,Serengeti,christian,fgm,police,short term protection,Underwear,UTI,1
+611,Mara,12/7/2018,14,Serengeti,christian,child marriage,police,short term protection,Counselling,UTI,1
+612,Mara,12/13/2018,12,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,1
+613,Mara,12/16/2018,13,Serengeti,christian,fgm,police,short term protection,Underwear,UTI,1
+614,Mara,12/18/2018,12,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,1
+615,Mara,12/17/2018,13,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,1
+616,Mara,12/15/2018,11,Serengeti,muslim,fgm,police,short term protection,Counselling,STI,1
+617,Mara,12/4/2018,14,Serengeti,christian,fgm,police,short term protection,Shoes,UTI,1
+618,Mara,12/8/2018,12,Serengeti,christian,child marriage,police,short term protection,Counselling,UTI,1
+619,Mara,12/2/2018,11,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,1
+620,Mara,12/13/2018,14,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,1
+621,Mara,12/20/2018,12,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,1
+622,Mara,12/12/2018,12,Serengeti,christian,child marriage,police,short term protection,Counselling,UTI,1
+624,Mara,12/21/2018,13,Serengeti,christian,other,police,short term protection,Counselling,Other Issues,1
+625,Mara,12/2/2017,16,Tarime,christian,fgm,volunteer,prosecution,Other,Heathy,1
+626,Mara,12/3/2018,15,Tarime,christian,fgm,volunteer,prosecution,Other,Heathy,1
+627,Mara,12/1/2017,10,Tarime,christian,fgm,volunteer,prosecution,Other,Heathy,1
+628,Mara,12/1/2018,14,Musoma,christian,fgm,volunteer,prosecution,Other,Heathy,1
+629,Mara,12/2/2017,16,Tarime,christian,child marriage,police,prosecution,Other,Heathy,1
+630,Mara,1/4/2019,17,Tarime,christian,fgm,volunteer,prosecution,Other,Heathy,1
+635,Mara,12/3/2018,15,Tarime,christian,fgm,volunteer,prosecution,Other,Heathy,1
+636,Mara,12/2/2018,18,Tarime,christian,fgm,volunteer,prosecution,Other,Heathy,1
+637,Mara,12/3/2017,15,Tarime,christian,fgm,volunteer,prosecution,Other,Heathy,1
+638,Mara,12/6/2018,18,Tarime,christian,fgm,volunteer,prosecution,Other,Heathy,0
+639,Mara,12/2/2018,17,Tarime,christian,fgm,volunteer,prosecution,Other,Heathy,1
+642,Mara,11/2/2018,15,Tarime,christian,child marriage,police,prosecution,Other,Heathy,1
+643,Mara,12/2/2018,16,Tarime,christian,fgm,volunteer,prosecution,Other,Heathy,1
+644,Mara,12/3/2018,18,Tarime,christian,fgm,volunteer,prosecution,Other,Heathy,1
+645,Mara,12/4/2018,17,Tarime,christian,fgm,volunteer,prosecution,Other,Heathy,0
+646,Mara,12/1/2017,16,Tarime,christian,fgm,volunteer,prosecution,Other,Heathy,1
+647,Mara,12/2/2017,10,Butiam,christian,fgm,volunteer,prosecution,Other,Heathy,1
+648,Mara,12/2/2017,13,Tarime,christian,fgm,volunteer,prosecution,Other,Heathy,1
+649,Mara,12/2/2017,11,Tarime,christian,fgm,volunteer,prosecution,Other,Heathy,1
+650,Mara,12/2/2017,16,Tarime,christian,fgm,volunteer,prosecution,Other,Heathy,1
+651,Mara,12/4/2017,12,Tarime,christian,fgm,volunteer,prosecution,Other,Heathy,1
+652,Mara,12/2/2017,10,Tarime,christian,fgm,volunteer,prosecution,Other,Heathy,1
+653,Mara,12/2/2017,18,Tarime,christian,fgm,volunteer,prosecution,Other,Heathy,0
+654,Mara,12/2/2017,16,Musoma,christian,child marriage,police,prosecution,Other,Heathy,1
+657,Mara,11/4/2018,10,Tarime,christian,fgm,volunteer,prosecution,Other,Heathy,1
+658,Mara,12/2/2018,15,Tarime,christian,fgm,volunteer,prosecution,Other,Heathy,1
+659,Mara,12/2/2018,15,Tarime,christian,fgm,volunteer,prosecution,Other,Heathy,0
+660,Mara,12/6/2019,16,Tarime,christian,fgm,volunteer,prosecution,Other,Heathy,1
+661,Mara,11/6/2019,14,Tarime,christian,fgm,volunteer,prosecution,Other,Heathy,1
+662,Mara,12/6/2019,14,Tarime,christian,fgm,volunteer,prosecution,Other,Heathy,1
+664,Mara,12/6/2019,12,Tarime,christian,fgm,volunteer,prosecution,Other,Heathy,1
+665,Mara,12/6/2019,17,Tarime,christian,fgm,volunteer,prosecution,Other,Heathy,1
+667,Mara,12/3/2019,16,Tarime,christian,fgm,volunteer,prosecution,Other,Heathy,1
+668,Mara,12/3/2019,16,Tarime,christian,fgm,volunteer,prosecution,Other,Heathy,1
+669,Mara,12/6/2019,14,Tarime,christian,fgm,volunteer,prosecution,Other,Heathy,1
+670,Mara,12/6/2019,17,Tarime,christian,fgm,volunteer,prosecution,Other,Heathy,1
+671,Mara,12/6/2019,16,Tarime,christian,fgm,volunteer,prosecution,Other,Heathy,0
+672,Mara,11/6/2019,16,Tarime,christian,fgm,volunteer,prosecution,Other,Heathy,1
+673,Mara,12/6/2019,16,Butiam,christian,fgm,volunteer,prosecution,Other,Heathy,1
+674,Mara,12/3/2018,15,Butiam,christian,child marriage,volunteer,prosecution,Other,Heathy,0
+676,Mara,11/28/2018,16,Butiam,christian,fgm,volunteer,prosecution,Other,Heathy,1
+677,Mara,12/6/2018,15,Butiam,christian,fgm,volunteer,prosecution,Other,Heathy,1
+678,Mara,12/3/2018,13,Tarime,christian,fgm,volunteer,prosecution,Other,Heathy,1
+679,Mara,6/5/2019,12,Butiam,christian,fgm,came herself,short term protection,Other,Heathy,1
+680,Mara,8/6/2019,13,Butiam,christian,fgm,police,short term protection,Counselling,UTI,1
+681,Mara,9/25/2019,15,Butiam,christian,fgm,community member,reconciliation with parents,Other,Heathy,1
+682,Mara,4/3/2019,12,Butiam,christian,violence,came herself,short term protection,Counselling,UTI,1
+683,Mara,6/5/2019,11,Butiam,christian,violence,came herself,short term protection,Counselling,Heathy,1
+684,Mara,9/11/2019,15,Butiam,christian,fgm,police,reconciliation with parents,Other,Heathy,1
+685,Mara,6/26/2019,15,Butiam,christian,fgm,came herself,reconciliation with parents,Other,Heathy,1
+686,Mara,4/25/2019,15,Butiam,christian,fgm,community member,reconciliation with parents,Counselling,Heathy,1
+687,Mara,9/4/2019,9,Butiam,christian,fgm,came herself,reconciliation with parents,Counselling,Heathy,1
+688,Mara,7/9/2019,9,Butiam,christian,fgm,came herself,reconciliation with parents,Counselling,Heathy,1
+689,Mara,8/5/2019,10,Butiam,christian,violence,came herself,reconciliation with parents,Other,Heathy,1
+690,Mara,11/5/2019,10,Butiam,christian,violence,came herself,reconciliation with parents,Other,Heathy,1
+691,Mara,10/8/2019,12,Butiam,christian,violence,came herself,reconciliation with parents,Other,Heathy,1
+692,Mara,9/24/2019,12,Butiam,christian,violence,came herself,reconciliation with parents,Other,Heathy,1
+693,Mara,9/10/2019,11,Butiam,christian,violence,came herself,reconciliation with parents,Other,Heathy,1
+694,Mara,9/4/2019,13,Butiam,christian,violence,came herself,reconciliation with parents,Counselling,Heathy,1
+695,Mara,10/22/2019,15,Butiam,muslim,violence,came herself,reconciliation with parents,Other,Heathy,1
+696,Mara,11/6/2019,10,Musoma,christian,violence,came herself,short term protection,Other,Heathy,1
+697,Mara,10/15/2019,16,Tarime,christian,violence,came herself,reconciliation with parents,Other,Heathy,1
+698,Mara,9/3/2019,9,Butiam,christian,violence,came herself,reconciliation with parents,Shoes,Heathy,1
+699,Mara,11/5/2019,10,Butiam,christian,violence,came herself,reconciliation with parents,Other,Heathy,1
+700,Mara,10/31/2019,12,Butiam,christian,violence,came herself,reconciliation with parents,Other,Heathy,1
+701,Mara,11/6/2019,12,Butiam,christian,violence,came herself,reconciliation with parents,Counselling,Heathy,1
+702,Mara,10/15/2019,10,Butiam,christian,violence,came herself,reconciliation with parents,Other,Heathy,1
+703,Mara,10/31/2019,9,Butiam,christian,violence,came herself,reconciliation with parents,Counselling,Heathy,1
+704,Mara,11/6/2019,9,Butiam,christian,violence,came herself,reconciliation with parents,Shoes,Heathy,1
+705,Mara,11/5/2019,11,Butiam,christian,violence,volunteer,short term protection,Counselling,Heathy,0
+706,Mara,10/9/2019,9,Butiam,christian,violence,religious leader,long term protection,Counselling,UTI,0
+707,Mara,11/21/2019,12,Butiam,christian,violence,came herself,reconciliation with parents,Shoes,Heathy,1
+708,Mara,11/5/2019,12,Butiam,christian,violence,came herself,short term protection,Other,Heathy,0
+709,Mara,12/3/2019,13,Butiam,christian,violence,religious leader,short term protection,Counselling,Heathy,0
+710,Mara,11/5/2019,13,Butiam,christian,violence,religious leader,short term protection,Underwear,Heathy,1
+711,Mara,11/5/2019,13,Butiam,christian,violence,religious leader,short term protection,Counselling,Heathy,0
+712,Mara,11/5/2019,10,Butiam,christian,violence,religious leader,short term protection,Other,Heathy,0
+713,Mara,12/3/2019,13,Butiam,christian,violence,came herself,short term protection,Other,Heathy,0
+714,Mara,10/1/2019,13,Butiam,christian,violence,came herself,short term protection,Clothes,Heathy,1
+715,Mara,11/5/2019,9,Butiam,christian,violence,community member,short term protection,Counselling,Heathy,0
+716,Mara,11/5/2019,13,Butiam,christian,fgm,came herself,short term protection,Other,Heathy,0
+717,Mara,11/5/2019,13,Butiam,christian,violence,religious leader,short term protection,Counselling,Heathy,0
+718,Mara,11/5/2019,13,Butiam,christian,violence,community member,short term protection,Other,Heathy,0
+719,Mara,11/5/2019,13,Butiam,christian,fgm,came herself,short term protection,Other,Heathy,0
+720,Mara,9/25/2019,13,Tarime,christian,violence,religious leader,short term protection,Other,Heathy,0
+721,Mara,11/6/2019,12,Tarime,christian,violence,community member,short term protection,Shoes,Heathy,1
+722,Mara,7/10/2019,13,Butiam,christian,fgm,community member,short term protection,Other,Heathy,0
+723,Mara,10/23/2019,18,Butiam,christian,fgm,came herself,short term protection,Counselling,Heathy,0
+724,Mara,12/4/2019,16,Butiam,christian,violence,community member,short term protection,Other,Heathy,0
+725,Mara,12/3/2019,16,Butiam,christian,violence,came herself,short term protection,Other,Heathy,0
+726,Mara,9/11/2019,19,Butiam,christian,violence,came herself,short term protection,Other,Heathy,0
+727,Mara,12/6/2018,15,Tarime,christian,fgm,volunteer,prosecution,Other,Heathy,1
+728,Mara,12/28/2017,10,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,0
+729,Mara,11/4/2017,12,Tarime,christian,child marriage,came herself,short term protection,Counselling,Heathy,0
+730,Mara,12/2/2017,13,Tarime,christian,child marriage,religious leader,short term protection,Counselling,Heathy,0
+731,Mara,11/3/2018,13,Butiam,christian,child marriage,came herself,short term protection,Counselling,Heathy,0
+732,Mwanza,11/3/2018,15,Magu,christian,child marriage,religious leader,short term protection,Counselling,Heathy,0
+733,Mara,12/8/2018,15,Butiam,christian,child marriage,school teacher,short term protection,Counselling,Heathy,0
+734,Mara,11/10/2018,15,Tarime,christian,rape,community member,short term protection,Counselling,Heathy,0
+735,Mara,11/10/2018,13,Butiam,christian,rape,religious leader,short term protection,Counselling,Heathy,0
+736,Mara,11/3/2018,14,Tarime,christian,violence,community member,short term protection,Counselling,Heathy,0
+737,Mara,12/15/2018,12,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,0
+738,Mara,12/8/2018,13,Tarime,christian,violence,volunteer,short term protection,Counselling,Heathy,0
+739,Mara,1/5/2018,12,Tarime,christian,rape,volunteer,short term protection,Counselling,Heathy,0
+740,Mara,12/9/2017,10,Tarime,christian,violence,volunteer,short term protection,Counselling,Heathy,0
+741,Mara,12/8/2018,8,Tarime,christian,violence,police,short term protection,Counselling,Heathy,0
+742,Mara,12/8/2018,6,Butiam,christian,violence,police,short term protection,Counselling,Heathy,0
+743,Mara,12/8/2018,16,Butiam,christian,rape,police,short term protection,Counselling,UTI,0
+744,Mara,12/8/2018,15,Tarime,christian,fgm,police,short term protection,Counselling,Heathy,1
+745,Mara,11/10/2018,12,Tarime,christian,rape,police,short term protection,Counselling,Heathy,0
+746,Mara,12/8/2018,12,Tarime,christian,fgm,police,short term protection,Counselling,Heathy,0
+747,Mara,12/8/2018,14,Tarime,christian,fgm,police,short term protection,Counselling,Heathy,0
+748,Mara,12/2/2017,12,Butiam,christian,fgm,police,short term protection,Counselling,Heathy,0
+749,Mara,11/3/2018,14,Tarime,christian,rape,police,short term protection,Counselling,Heathy,0
+750,Mara,12/8/2018,24,Butiam,christian,rape,police,short term protection,Counselling,Heathy,0
+751,Mara,12/8/2018,9,Butiam,christian,rape,police,short term protection,Counselling,Heathy,0
+752,Mara,12/8/2018,14,Butiam,christian,rape,police,short term protection,Counselling,Heathy,0
+753,Mara,11/3/2018,15,Butiam,christian,rape,police,short term protection,Counselling,Heathy,0
+754,Mara,12/8/2018,10,Butiam,christian,rape,police,short term protection,Counselling,Heathy,0
+755,Mara,12/8/2018,16,Butiam,christian,child marriage,police,short term protection,Counselling,Heathy,0
+756,Mara,12/1/2018,14,Butiam,christian,child marriage,police,short term protection,Counselling,Heathy,0
+757,Mara,12/8/2018,12,Tarime,christian,violence,police,short term protection,Counselling,Heathy,0
+758,Mara,11/10/2018,14,Butiam,christian,rape,police,short term protection,Counselling,Heathy,0
+759,Mara,12/8/2018,6,Butiam,christian,rape,police,short term protection,Counselling,Heathy,0
+760,Mara,12/8/2018,12,Butiam,christian,rape,police,short term protection,Counselling,Heathy,0
+761,Mara,11/3/2018,14,Butiam,christian,rape,police,short term protection,Counselling,Heathy,0
+762,Mara,12/8/2018,15,Butiam,christian,rape,police,short term protection,Other,Heathy,0
+763,Mara,12/8/2018,14,Butiam,christian,child marriage,police,short term protection,Counselling,Heathy,0
+764,Mara,12/8/2018,15,Butiam,christian,violence,police,short term protection,Counselling,Heathy,0
+765,Mara,12/8/2018,16,Butiam,christian,child marriage,police,short term protection,Counselling,Heathy,0
+766,Mara,12/2/2017,9,Tarime,christian,violence,government leader,short term protection,Counselling,Heathy,0
+767,Mara,12/1/2018,15,Serengeti,christian,violence,police,short term protection,Counselling,Heathy,0
+769,Mara,12/8/2018,10,Butiam,christian,violence,police,short term protection,Counselling,Heathy,0
+770,Mara,11/4/2017,12,Butiam,christian,violence,police,short term protection,Counselling,Heathy,0
+771,Mara,12/1/2018,14,Tarime,christian,violence,police,short term protection,Other,Heathy,0
+772,Mara,12/8/2018,10,Tarime,christian,violence,police,short term protection,Counselling,Heathy,0
+773,Mara,12/1/2018,12,Butiam,christian,violence,police,short term protection,Counselling,Heathy,0
+774,Mara,11/3/2018,9,Butiam,christian,violence,police,short term protection,Counselling,Heathy,0
+775,Mara,12/8/2018,10,Butiam,christian,rape,police,short term protection,Counselling,Heathy,0
+776,Mara,12/1/2018,7,Butiam,christian,rape,volunteer,short term protection,Counselling,Heathy,0
+777,Mara,12/8/2018,13,Butiam,christian,violence,police,short term protection,Counselling,Heathy,0
+778,Mara,12/8/2018,10,Butiam,christian,fgm,police,short term protection,Counselling,Heathy,0
+779,Mara,12/1/2018,10,Butiam,christian,violence,police,short term protection,Counselling,Heathy,0
+780,Mara,1/5/2019,8,Tarime,christian,rape,school teacher,short term protection,Counselling,Heathy,1
+781,Mara,12/4/2018,13,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+782,Mara,12/4/2018,14,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+783,Mara,12/8/2018,12,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+784,Mara,11/3/2018,15,Butiam,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+785,Mara,12/4/2018,10,Butiam,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+786,Mara,11/3/2018,9,Tarime,christian,violence,volunteer,short term protection,Counselling,UTI,1
+787,Mara,12/8/2018,13,Butiam,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+788,Mara,12/3/2018,10,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+789,Mara,11/3/2018,12,Butiam,christian,child marriage,police,short term protection,Counselling,Heathy,0
+790,Mara,12/8/2018,15,Butiam,christian,child marriage,police,short term protection,Counselling,Heathy,0
+791,Mara,12/8/2018,14,Butiam,christian,child marriage,police,short term protection,Counselling,Heathy,0
+792,Mara,12/4/2018,12,Butiam,christian,fgm,police,short term protection,Other,Heathy,0
+793,Mara,12/8/2018,12,Butiam,christian,child marriage,volunteer,short term protection,Counselling,Heathy,0
+794,Mara,12/4/2018,12,Butiam,christian,child marriage,volunteer,short term protection,Counselling,Heathy,0
+795,Mara,12/7/2018,14,Butiam,christian,child marriage,volunteer,short term protection,Counselling,Heathy,0
+796,Mara,12/2/2017,10,Tarime,christian,fgm,police,short term protection,Counselling,Heathy,0
+797,Mara,12/4/2018,14,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+798,Mara,12/1/2018,10,Tarime,christian,fgm,police,short term protection,Counselling,Heathy,1
+799,Mara,2/7/2019,12,Tarime,muslim,fgm,came herself,short term protection,Other,Heathy,0
+800,Mara,11/3/2018,10,Tarime,christian,fgm,volunteer,short term protection,Counselling,Heathy,1
+801,Mara,11/3/2018,10,Tarime,christian,fgm,police,short term protection,Counselling,Heathy,0
+802,Mara,6/5/2019,15,Butiam,christian,violence,religious leader,short term protection,Other,Heathy,0
+804,Mara,7/9/2019,13,Butiam,christian,violence,came herself,short term protection,Other,Heathy,0
+805,Mara,12/1/2018,9,Tarime,christian,fgm,police,short term protection,Counselling,Heathy,1
+806,Mara,9/4/2019,13,Butiam,christian,violence,community member,short term protection,Counselling,Heathy,0
+807,Mwanza,10/9/2019,15,Nyamagana,christian,violence,came herself,reconciliation with parents,Other,Heathy,1
+808,Mara,9/25/2019,13,Butiam,christian,fgm,came herself,reconciliation with parents,Other,Heathy,0
+809,Mara,9/11/2019,13,Butiam,christian,fgm,school teacher,reconciliation with parents,Other,Heathy,1
+810,Mara,9/18/2019,16,Butiam,christian,violence,came herself,reconciliation with parents,Counselling,Heathy,1
+811,Mwanza,10/8/2019,15,Kwimba,christian,violence,social welfare officer,short term protection,Other,Heathy,1
+812,Mara,9/10/2019,16,Butiam,christian,violence,volunteer,short term protection,Other,Heathy,0
+813,Mara,11/6/2019,15,Bunda,christian,violence,came herself,reconciliation with parents,Counselling,Heathy,1
+814,Mara,9/4/2019,16,Musoma,christian,violence,came herself,short term protection,Other,Heathy,0
+815,Mara,8/7/2019,15,Bunda,christian,violence,community member,short term protection,Other,Heathy,0
+816,Mara,10/9/2019,16,Tarime,christian,violence,came herself,reconciliation with parents,Counselling,Heathy,1
+817,Mara,10/16/2019,15,Tarime,christian,violence,came herself,reconciliation with parents,Other,Heathy,0
+818,Mara,10/16/2019,14,Tarime,christian,violence,came herself,reconciliation with parents,Other,Heathy,1
+819,Mara,9/10/2019,16,Butiam,christian,fgm,community member,short term protection,Other,Heathy,0
+820,Mara,11/5/2019,13,Butiam,christian,fgm,came herself,reconciliation with parents,Other,Heathy,0
+821,Mara,10/1/2019,13,Butiam,christian,violence,community member,short term protection,Shoes,Heathy,1
+822,Mara,10/16/2019,13,Butiam,christian,violence,came herself,reconciliation with parents,Other,Heathy,0
+823,Mara,10/17/2019,15,Butiam,christian,fgm,came herself,reconciliation with parents,Other,Heathy,0
+824,Mara,10/8/2019,13,Tarime,christian,fgm,religious leader,reconciliation with parents,Other,Heathy,0
+825,Mara,10/2/2019,13,Tarime,christian,fgm,community member,reconciliation with parents,Other,Heathy,1
+826,Mara,9/17/2019,14,Butiam,christian,violence,community member,reconciliation with parents,Other,Heathy,0
+827,Mara,11/7/2019,15,Tarime,christian,fgm,volunteer,reconciliation with parents,Other,Heathy,1
+828,Mara,12/21/2018,12,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,1
+829,Mara,12/31/2018,14,Serengeti,christian,child marriage,police,short term protection,Counselling,UTI,1
+830,Mara,12/26/2018,13,Serengeti,christian,child marriage,police,short term protection,Shoes,UTI,1
+831,Mara,12/24/2018,11,Serengeti,christian,fgm,police,short term protection,Counselling,Heathy,1
+832,Mara,12/17/2018,12,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,1
+833,Mara,12/12/2018,11,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,1
+834,Mara,12/27/2018,13,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,1
+835,Mara,12/18/2018,13,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,1
+836,Mara,12/30/2018,12,Serengeti,christian,child marriage,police,short term protection,Counselling,UTI,1
+837,Mara,12/23/2018,12,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,1
+838,Mara,12/31/2018,13,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,1
+839,Mara,12/29/2018,11,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,1
+840,Mara,12/21/2018,11,Serengeti,christian,fgm,police,short term protection,Counselling,Heathy,1
+841,Mara,12/22/2018,14,Serengeti,christian,child marriage,police,short term protection,Counselling,UTI,1
+842,Mara,12/28/2018,14,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,1
+843,Mara,12/25/2018,13,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,1
+844,Mara,12/27/2018,11,Serengeti,christian,other,police,short term protection,Counselling,UTI,1
+845,Mara,12/27/2018,13,Serengeti,christian,fgm,police,short term protection,Counselling,UTI,1
+846,Mara,12/30/2018,12,Serengeti,christian,fgm,school teacher,short term protection,Counselling,UTI,1
+847,Mara,3/3/2020,12,Butiam,christian,violence,police,short term protection,Counselling,Heathy,1
+848,Mara,3/4/2020,12,Butiam,christian,rape,police,long term protection,Counselling,UTI,1
+849,Mara,3/4/2020,9,Butiam,christian,rape,police,long term protection,Shoes,UTI,1
+850,Mara,3/8/2020,12,Butiam,christian,child marriage,police,short term protection,Counselling,Heathy,1
